@@ -7,6 +7,7 @@
 - 🔭 Worked as an Embedded & Android Engineer @Anyractive Corp. (2021.09 ~ 2023.10)
 - 📫 Email : romin1027@gmail.com
 - 📡 Blog : https://knowum.tistory.com/category/iOS
+- 💼 portfolio: https://drive.google.com/file/d/17DFTXdXuwDncAmPMOE1eQGI91_dYdu1B/view
 
 ## Projects
 
