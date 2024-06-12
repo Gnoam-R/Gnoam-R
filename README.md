@@ -5,7 +5,7 @@
 - 🏠 Currently living in Seoul / Korea, Republic of
 - 🔭 Worked as an Embedded & Android Engineer @Anyractive Corp. (2021.09 ~ 2023.10)
 - 📫 Email : romin1027@gmail.com
-- 📡 Blog : https://knowum.tistory.com/category/iOS
+- 📡 Blog : https://knowum.tistory.com
 - 💼 Portfolio: https://drive.google.com/file/d/17DFTXdXuwDncAmPMOE1eQGI91_dYdu1B/view
 
 ## Projects
@@ -35,6 +35,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/notion-F80000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual studio-7952B3?style=for-the-badge&logo=visualstudio&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Visual studio-7952B3?style=for-the-badge&logo=visualstudio&logoColor=white"> -->
 </div>
 <br>
