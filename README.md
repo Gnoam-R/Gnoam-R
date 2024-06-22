@@ -17,7 +17,7 @@
 
 ### iOS
 - 유튜브 UI/UX 클론 코딩 [Youtube-Clone](https://github.com/iOS-YouTube-CloneCoding/Youtube_Clone_Gnoam.git)
-- Swift UI 캘린더 앱[캘린더 앱](https://github.com/Gnoam-R/VauDium_Assignment)
+- 캘린더 앱 [VauDium_Assignment](https://github.com/Gnoam-R/VauDium_Assignment)
   
 ### Android
 - ARCore Geospatial API 기반 글로벌 좌표 AR 앱(Unity as Library) [ARAD](https://github.com/Gnoam-R/ARAD_Public.git)
