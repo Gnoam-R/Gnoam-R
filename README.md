@@ -21,7 +21,7 @@
 - 💼 Portfolio: https://drive.google.com/file/d/17DFTXdXuwDncAmPMOE1eQGI91_dYdu1B/view
 
 ### iOS
-- 유튜브 UI/UX 클론 코딩 [Youtube-Clone](https://github.com/iOS-YouTube-CloneCoding/Youtube_Clone_Gnoam.git)
+- 유튜브 클론 코딩 [Youtube-Clone](https://github.com/iOS-YouTube-CloneCoding/Youtube_Clone_Gnoam.git)
 - 캘린더 앱 [VauDium_Assignment](https://github.com/Gnoam-R/VauDium_Assignment)
   
 
