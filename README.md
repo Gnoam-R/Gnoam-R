@@ -11,8 +11,8 @@
 
 
 ### Android
-- ARCore Geospatial API 기반 글로벌 좌표 AR 앱 [ARAD](https://github.com/Gnoam-R/ARAD_Public.git)
-- 반려동물 전용 소셜 네트워크 앱 [dogdom](https://github.com/Gnoam-R/dogdom.git)
+- ARCore Geospatial API 기반 글로벌 좌표 AR 앱 - [ARAD](https://github.com/Gnoam-R/ARAD_Public.git)
+- 반려동물 전용 소셜 네트워크 앱 - [dogdom](https://github.com/Gnoam-R/dogdom.git)
 
 ### Embedded
 - 노면소음 제어 성능 육성 및 최적화 개발
