@@ -29,14 +29,16 @@
 ## Tech Stack & Tools
 <br>
 <div align=center> 
-  <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=java&logoColor=white"> 
+
   <img src="https://img.shields.io/badge/Kotlin-232F3E?style=for-the-badge&logo=kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Swift-FCC624?style=for-the-badge&logo=swift&logoColor=black"> 
   <br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/notion-F80000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> 
 <!--   <img src="https://img.shields.io/badge/Visual studio-7952B3?style=for-the-badge&logo=visualstudio&logoColor=white"> -->
 </div>
 <br>
