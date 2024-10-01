@@ -11,12 +11,12 @@
 
 
 ### Android
-- ARCore Geospatial API 기반 글로벌 좌표 AR 앱 - [ARAD](https://github.com/Gnoam-R/ARAD_Public.git)
-- 반려동물 전용 소셜 네트워크 앱 - [dogdom](https://github.com/Gnoam-R/dogdom.git)
+- ARCore Geospatial API 기반 글로벌 좌표 AR 앱 - [ARAD](https://github.com/Gnoam-R/ARAD_Public.git) @Anyractive Corp
+- 반려동물 전용 소셜 네트워크 앱 - [dogdom](https://github.com/Gnoam-R/dogdom.git) @개인 프로젝트
 
-### Embedded
-- 노면소음 제어 성능 육성 및 최적화 개발
-- 특수 음향 플렛폼 전개 개발
+### Embedded 
+- 노면소음 제어 성능 육성 및 최적화 개발 
+- 특수 음향 플렛폼 전개 개발 
 - 차량용 원격 제어 시스템 개발
 - 💼 Portfolio: https://drive.google.com/file/d/17DFTXdXuwDncAmPMOE1eQGI91_dYdu1B/view
 
