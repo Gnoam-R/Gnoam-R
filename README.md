@@ -18,7 +18,7 @@
 - 노면소음 제어 성능 육성 및 최적화 개발 
 - 특수 음향 플렛폼 전개 개발 
 - 차량용 원격 제어 시스템 개발
-- 💼 Portfolio: https://drive.google.com/file/d/17DFTXdXuwDncAmPMOE1eQGI91_dYdu1B/view
+- 💼 Embedded Portfolio: https://drive.google.com/file/d/17DFTXdXuwDncAmPMOE1eQGI91_dYdu1B/view
 
 ### iOS
 - 유튜브 클론 코딩 [Youtube-Clone](https://github.com/iOS-YouTube-CloneCoding/Youtube_Clone_Gnoam.git)
