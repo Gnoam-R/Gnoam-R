@@ -3,10 +3,15 @@
 <br>
 
 - 🏠 Currently living in Seoul / Korea, Republic of
-- 🔭 Worked as an Embedded & Android Engineer @Anyractive Corp. (2021.09 ~ 2023.10)
+
 - 📫 Email : romin1027@gmail.com
 - 📡 Blog : https://knowum.tistory.com
 - 📚 study : https://hail-authority-984.notion.site/4f5b6b6e76164a54a01e1c7d7581f764?pvs=4
+
+## Career
+2024.11 ~ 현재 Mediazen PS2 team Android Developer 
+2021.09 ~ 2023.10 Anyractive 개발팀 사원
+
 ## Projects
 
 
