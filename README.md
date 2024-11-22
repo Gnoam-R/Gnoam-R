@@ -1,5 +1,5 @@
 # Hyung Woo Roh (Gnoam)
-안녕하세요 저는 새로운 기술에 대한 학습과 꾸준한 성장을 꿈꾸는 개발자 입니다.
+안녕하세요 저는 새로운 기술에 대한 학습과 꾸준한 성장을 꿈꾸는 Android 개발자 입니다.
 <br>
 
 - 🏠 Currently living in Seoul / Korea, Republic of
