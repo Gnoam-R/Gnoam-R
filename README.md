@@ -6,7 +6,6 @@
 
 - 📫 Email : romin1027@gmail.com
 - 📡 Blog : https://knowum.tistory.com
-- 📚 study : https://hail-authority-984.notion.site/4f5b6b6e76164a54a01e1c7d7581f764?pvs=4
 
 ## Career
 - 2024.11 ~ 현재 Mediazen PS2 team Pro
